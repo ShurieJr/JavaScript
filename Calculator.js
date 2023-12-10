@@ -19,3 +19,6 @@ function Calculator() {
   
   alert( "Sum=" + calculator.sum() );
   alert( "Mul=" + calculator.mul() );
+
+  // calculator app 
+  //-- Constructor function example
