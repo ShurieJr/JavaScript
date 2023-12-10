@@ -57,7 +57,7 @@ console.log(person.hobbies[0]);
 console.log(person.name);
 console.log(person.address.street);
 
-// we can pull variables from the pbject
+// we can pull variables from the object
 const {name, age } = person;
 console.log(name)
 
