@@ -134,7 +134,7 @@ console.log(todos[1].address.city)
         console.log('element : ' + element)
     }
 
-    //foreacn
+    //foreach
     todos.forEach(function(todos) {
         console.log(todos.name);
     });
