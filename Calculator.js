@@ -21,4 +21,4 @@ function Calculator() {
   alert( "Mul=" + calculator.mul() );
 
   // calculator app 
-  //-- Constructor function example...
+  //-- Constructor function example.
