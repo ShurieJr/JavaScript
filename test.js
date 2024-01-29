@@ -5,7 +5,7 @@ function test(){
    h.style.color= "blue";
 
     alert("test click button!");
-
+    msg.innerHTML="";
     msg.appendChild(document.createTextNode(`welcome to somalia `));
     msg.appendChild(document.createTextNode(`Mogadishu`));
     msg.style.color="brown";
