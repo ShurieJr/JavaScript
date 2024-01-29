@@ -1,0 +1,23 @@
+*{
+    background-color:bisque;
+}
+
+h1{
+    color:cadetblue;
+}
+
+button{
+    color: white;
+    background-color: brown;
+    border-radius: 20px;
+    border:groove  3px  white;
+    font-size: 1em;
+    margin-left: 20px;
+    width: 180px;
+    height: 30px;
+}
+
+body{
+    text-align: center;
+    margin-top: 300px;
+}

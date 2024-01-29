@@ -274,7 +274,6 @@ ul.lastElementChild.innerHTML = `<h1> Hello </h1>`;
 //    document.querySelector('body').classList.add('bg-dark');
 //  });
 
-
  const myForm = document.querySelector('#my-form');
  const inputName = document.querySelector('#name');
  const inputEmail = document.querySelector('#email');
@@ -310,4 +309,15 @@ li.appendChild(document.createTextNode(`${inputName.value} : ${inputEmail.value}
   }
  }
 
+ //btnclick evenlistner
+document.getElementById('btnclick').onclick = msg;
+ function msg(){
+    document.alert("WELCOME TO JS! MOHAMED ABDULLAHI");
+ }
+
+
+ function myFunction() {
+    document.getElementById("demo").style.color = "red";
+    alert("changed!");
+  }
  
